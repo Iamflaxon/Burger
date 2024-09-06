@@ -1,0 +1,13 @@
+.box{box-shadow: 2px 0px 3px 0px gold;
+	
+}
+body{
+	background: url(BB.jpeg);
+}
+.burger{
+	font-size: 20px;
+
+}
+.navbar{
+	height: 100px;
+}
